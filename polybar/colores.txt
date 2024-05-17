@@ -1,0 +1,179 @@
+### MINE ###{
+Normal:
+Azul: #0380f5
+Verde: #08ab31
+Rojo: #ea4430
+Naranja: #f89c2c
+Negro: #222222
+Amarillo: #ffef32
+Magenta: #b095f4
+Cian: #03b1f6
+
+
+Bright:
+Azul: #00b2ff
+Verde: #02d637
+Rojo: #fd3017
+Naranja: #fb7600
+Negro: #0e0d0d
+Amarillo: #fdeb0c
+Magenta: #946bfb
+Cian: #03d6f6
+
+Dim:
+Azul: #3b9af3
+Verde: #22b748
+Rojo: #ea6353
+Naranja: #f9ac4e
+Negro: #414040
+Amarillo: #fdf15f
+Magenta: #ccb9fc
+Cian: #3cc6fd
+}
+
+### Sofi ###{}
+
+#### Tokyo ####{
+schemes:
+  # Tokyo Night theme, based on both:
+  #   https://github.com/ghifarit53/tokyonight-vim
+  #   https://github.com/enkia/tokyo-night-vscode-theme
+  tokyo-night: &tokyo-night
+    # Default colors
+    primary:
+      background: '0x1a1b26'
+      foreground: '0xa9b1d6'
+
+    # Normal colors
+    normal:
+      black:   '0x32344a'
+      red:     '0xf7768e'
+      green:   '0x9ece6a'
+      yellow:  '0xe0af68'
+      blue:    '0x7aa2f7'
+      magenta: '0xad8ee6'
+      cyan:    '0x449dab'
+      white:   '0x787c99'
+
+    # Bright colors
+    bright:
+      black:   '0x444b6a'
+      red:     '0xff7a93'
+      green:   '0xb9f27c'
+      yellow:  '0xff9e64'
+      blue:    '0x7da6ff'
+      magenta: '0xbb9af7'
+      cyan:    '0x0db9d7'
+      white:   '0xacb0d0'
+
+  tokyo-night-storm: &tokyo-night-storm
+    # Default colors
+    primary:
+      background: '0x24283b'
+      foreground: '0xa9b1d6'
+
+    # Normal colors
+    normal:
+      black:   '0x32344a'
+      red:     '0xf7768e'
+      green:   '0x9ece6a'
+      yellow:  '0xe0af68'
+      blue:    '0x7aa2f7'
+      magenta: '0xad8ee6'
+      cyan:    '0x449dab'
+      white:   '0x9699a8'
+
+    # Bright colors
+    bright:
+      black:   '0x444b6a'
+      red:     '0xff7a93'
+      green:   '0xb9f27c'
+      yellow:  '0xff9e64'
+      blue:    '0x7da6ff'
+      magenta: '0xbb9af7'
+      cyan:    '0x0db9d7'
+      white:   '0xacb0d0'
+}
+
+### EVANGELION ###{
+
+ color0 #000000
+ color8 #0B0B0B
+
+#: black
+
+ color1 #E32A32
+ color9 #803d49
+
+#: red
+
+ color2  #08ab31
+ color10 #618041
+
+#: green
+
+ color3  #F2B157
+ color11 #D45500
+
+#: yellow
+
+ color4  #7aa2f7
+ color12 #3e5380
+
+#: blue
+
+ color5  #8748BD
+ color13 #330453
+
+#: magenta
+
+ color6  #0db9d7
+ color14 #449dab
+#: cyan
+
+ color7  #acb0d0
+ color15 #787c99
+
+#: white
+}
+
+### EVA 01 ###{
+ color0 #000000
+ color8 #0B0B0B
+
+#: black
+
+ color1 #E32A32
+ color9 #A30000
+
+#: red
+
+ color2  #08ab31
+ color10 #3F6D4E
+
+#: green
+
+ color3  #F2B157
+ color11 #DA713E
+
+#: yellow
+
+ color4  #7aa2f7
+ color12 #3e5380
+
+#: blue
+
+ color5  #8748BD
+ color13 #330453
+
+#: magenta
+
+ color6  #40bc2e
+ color14 #318b24
+#: cyan
+
+ color7  #acb0d0
+ color15 #787c99
+
+#: white
+}
